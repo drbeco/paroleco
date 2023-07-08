@@ -81,14 +81,16 @@ Entre em 3 grupos (mínimo):
 :warning: Don't break this important rule!
 
 ---
+![bg 35% opacity:35%](img/notebook.png)
 <!-- _class: invert-green -->
 ## CoC - Code of Conduct
+
 1. Respect other people's opinions. Express your own opinion or criticisms in a civilized, polited way. :page_with_curl:
 2. Please respect different cultures, ethnicities, religions, sexuality, gender, etc. :page_with_curl:
 3. Paroleco is **not** a dating platform. :page_with_curl:
 4. Please avoid any kind of spamming, like advertisements, potentially dangerous links or religious propaganda. :page_with_curl:
 5. Whenever you join a new group, please remember to introduce yourself. Say hi! :page_with_curl:
-7. New members must talk to an admin and agree with these rules before joining. :page_with_curl:
+6. New members must talk to an admin and agree with these rules upon joining. :page_with_curl:
 <!-- 6. Don't ask to add friends/family. Don't share chat links. :page_with_curl: -->
 
 <!-- , nor send the chat links to others. -->
@@ -150,7 +152,7 @@ Chinese 🇨🇳: https://t.me/joinchat/dfIGmpIIa-8xOWEx
 Russian 🇷🇺: https://t.me/joinchat/__2EXER5L-gxZmMx
 
 ---
-![bg 65% opacity:50%](img/gimmehug.png)
+![bg 65% opacity:15%](img/gimmehug.png)
 
 # Welcome!
 
