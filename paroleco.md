@@ -1,9 +1,10 @@
 ---
-title           : Paroleco Ni amas lingvojn
+title           : Paroleco Language Exchange Club - PLEC 
 author          : Ruben Carlo Benante
 description     : Presents Marp functionalities
 keywords        : Presentation, Marp, Slides, Themes
-header          : Paroleco - Ni amas lingvojn
+header          : Paroleco Language Exchange Club - PLEC
+footer          : Ni amas lingvojn
 theme           : colors
 <!-- backgroundImage : url('https://beco.cc/downloads/backgrounds/unsound-marp-background.jpg') -->
 size            : 16:9
@@ -15,13 +16,14 @@ marp            : true
 ![bg right:45% h:90%](img/20230706-logotipo-paroleco-transp.png)
 
 # Paroleco
-### Language Exchange Club parolEco (LECO)
+## Language Exchange Club 
 #### Ni amas lingvojn
 
-Prof. Dr. Ruben C. Benante
-<<rcb@upe.br>>
+Coordinator
+Prof. Dr. Ruben C. Benante <<rcb@upe.br>>
+
 Politécnica Universidade de Pernambuco
-2023-07-02
+2023-07-08
 
 ---
 <!-- _class: invert-purple -->
@@ -29,14 +31,14 @@ Politécnica Universidade de Pernambuco
 
 # Hi there!!
 
-Welcome to Paroleco, our Language Exchange club - LECO 🌍
+Welcome to **Paroleco** Language Exchange Club - PLEC 🌍
 
 This is an international language exchange set of groups which was created as a way of letting people from all over the world connect and interact in order to improve whichever language they are learning. Here you will find both people studying as well as natives who will help you with any questions you may have. 
 
 
 ---
 <!-- _class: invert-orange -->
-<!-- footer: Prof. Dr. Ruben Carlo Benante <<rcb@upe.br>> -->
+<!-- foter: Prof. Dr. Ruben Carlo Benante <<rcb@upe.br>> -->
 
 ![bg right:30% h:65% w:100%](img/pyramid.png)
 
@@ -86,8 +88,8 @@ Entre em 3 grupos (mínimo):
 3. Paroleco is **not** a dating platform. :page_with_curl:
 4. Please avoid any kind of spamming, like advertisements, potentially dangerous links or religious propaganda. :page_with_curl:
 5. Whenever you join a new group, please remember to introduce yourself. Say hi! :page_with_curl:
-6. Don't ask to add friends/family. Don't share chat links. :page_with_curl:
 7. New members must talk to an admin and agree with these rules before joining. :page_with_curl:
+<!-- 6. Don't ask to add friends/family. Don't share chat links. :page_with_curl: -->
 
 <!-- , nor send the chat links to others. -->
 <!-- 7. Please don't send the links of the chats to others. --> 
@@ -132,7 +134,7 @@ move to _Telegram Topics_!
 ---
 <!-- _class: invert-blue -->
 
-# Paroleco Language Group Link:
+# Paroleco Language Group Links:
 
 Paroleco Lounge 🌍: https://t.me/paroleco
 
@@ -158,4 +160,24 @@ We also ask you to join the main lounge, so you can meet everyone from every gro
 We have groups for every language. You can join whichever one you want, whenever you want, just go for it!
 
 Welcome and have a great time!
+
+---
+<!-- _class: invert-green -->
+![bg right:35% h:65% w:100%](img/mosaicoautores.png)
+
+# Awesome Team
+### Coordinator
+- Prof. Dr. Ruben C. Benante 
+<!-- <<rcb@beco.cc>> -->
+
+### Super Admins
+- Joyce Sobral <!-- <<joyce-sobral@hotmail.com> -->
+- Pedro Paim <!-- <<edro.npm@gmail.com> -->
+- Bruna Hori <!-- <<brunahori19@gmail.com> -->
+
+<br/>
+Paroleco Lounge 🌍 t.me/paroleco
+<br/>
+Copyright 2023+ All rights reserved 
+<!-- by Ruben Carlo Benante -->
 
