@@ -150,6 +150,7 @@ Chinese 🇨🇳: https://t.me/joinchat/dfIGmpIIa-8xOWEx
 Russian 🇷🇺: https://t.me/joinchat/__2EXER5L-gxZmMx
 
 ---
+![bg 65% opacity:50%](img/gimmehug.png)
 
 # Welcome!
 
