@@ -166,7 +166,7 @@ Welcome and have a great time!
 
 ---
 <!-- _class: invert-green -->
-![bg right:35% h:65% w:100%](img/mosaicoautores.png)
+![bg right:35% h:85% w:100%](img/mosaicoautores.png)
 
 # Awesome Team
 ### Coordinator
@@ -177,10 +177,9 @@ Welcome and have a great time!
 - Joyce Sobral <!-- <<joyce-sobral@hotmail.com> -->
 - Pedro Paim <!-- <<edro.npm@gmail.com> -->
 - Bruna Hori <!-- <<brunahori19@gmail.com> -->
+- Letícia Oliveira <!-- <<leticiagboliveira@gmail.com>> -->
 
-<br/>
 Paroleco Lounge 🌍 t.me/paroleco
-<br/>
 Copyright 2023+ All rights reserved 
 <!-- by Ruben Carlo Benante -->
 
