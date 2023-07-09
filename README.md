@@ -1,7 +1,5 @@
-# Paroleco
-### Language Exchange Club parolEco (LECO)
+# Paroleco - Language Exchange Club - PLEC
 #### Ni amas lingvojn
-
 
 ## Intro
 
@@ -14,6 +12,10 @@ Language Exchange Set of Groups
 Use `marp` to convert from `Markdown` to `PDF` with the command:
 
     marp --pdf paroleco.md --theme /opt/marp/theme/colors.css --allow-local-files
+
+or just
+
+    make
 
 ## Authors
 
