@@ -4,7 +4,7 @@ author          : Ruben Carlo Benante
 description     : Presents Marp functionalities
 keywords        : Presentation, Marp, Slides, Themes
 header          : Paroleco Language Exchange Club - PLEC
-footer          : Ni amas lingvojn
+footer          : ![h:32px](img/20230711-logo-ari-degrade.png) ![h:20px](img/so-poli-logo-transp.png) ![h:20px](img/so-upe-logo-transp.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ni amas lingvojn 
 theme           : colors
 <!-- backgroundImage : url('https://beco.cc/downloads/backgrounds/unsound-marp-background.jpg') -->
 size            : 16:9
@@ -21,8 +21,9 @@ marp            : true
 
 Coordinator
 Prof. Dr. Ruben C. Benante <<rcb@upe.br>>
-
-Politécnica Universidade de Pernambuco
+Assessoria de Relações Internacionais 
+Escola Politécnica 
+Univ. de Pernambuco 
 2023-07-08
 
 ---
@@ -135,6 +136,7 @@ move to _Telegram Topics_!
 
 ---
 <!-- _class: invert-blue -->
+![bg 65% opacity:15%](img/worldblue.png)
 
 # Paroleco Language Group Links:
 
@@ -166,20 +168,50 @@ Welcome and have a great time!
 
 ---
 <!-- _class: invert-green -->
-![bg right:35% h:85% w:100%](img/mosaicoautores.png)
+<!-- footer: ![h:32px](img/20230711-logo-ari-degrade.png) ![h:20px](img/so-poli-logo-transp.png) ![h:20px](img/so-upe-logo-transp.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ni amas lingvojn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright 2023+ -->
+![bg right:40% h:75% w:100%](img/drbeco-vertical.png)
+
+# Paroleco Project
+### Coordinator
+- Prof. Dr. Ruben C. Benante Dr. Bèco <<rcb@beco.cc>>
+- Bel. in Computer Science
+- Master in Philosophy of Mind and Cogntive Science
+- Ph.D. in Artificial Intelligence
+- Head of the International Relations Office at POLI/UPE
+
+<!-- Paroleco Lounge 🌍 t.me/paroleco -->
+<!-- <p style="font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright 2023+ by Ruben Carlo Benante </p> -->
+
+---
+<!-- _class: invert-orange -->
+<!-- footer: ![h:32px](img/20230711-logo-ari-degrade.png) ![h:20px](img/so-poli-logo-transp.png) ![h:20px](img/so-upe-logo-transp.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ni amas lingvojn -->
+![bg right:35% h:95% w:100%](img/mosaicoadmin.png)
 
 # Awesome Team
-### Coordinator
-- Prof. Dr. Ruben C. Benante 
-<!-- <<rcb@beco.cc>> -->
 
 ### Super Admins
 - Joyce Sobral <!-- <<joyce-sobral@hotmail.com> -->
 - Pedro Paim <!-- <<edro.npm@gmail.com> -->
 - Bruna Hori <!-- <<brunahori19@gmail.com> -->
 - Letícia Oliveira <!-- <<leticiagboliveira@gmail.com>> -->
+- Cherry Tan
 
 Paroleco Lounge 🌍 t.me/paroleco
-Copyright 2023+ All rights reserved 
-<!-- by Ruben Carlo Benante -->
+
+
+---
+<!-- _class: invert-purple -->
+![bg right:35% h:85% w:100%](img/mosaicovoluntarios.png)
+
+# Awesome Team
+
+### Volunteers ARI/POLI/UPE
+
+- Maria Clara de Queiroz
+- Luciana Pires 
+- Ana Elisa Souza
+- Anne Gabriela Belarmino
+- Barbara da Cunha
+- José Filipe Soares
+
 
