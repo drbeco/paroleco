@@ -25,7 +25,7 @@
 #
 
 paroleco.pdf : paroleco.md
-	marp --pdf paroleco.md --theme /opt/marp/theme/colors.css --allow-local-files
+	marp --pdf --html paroleco.md --theme /opt/marp/theme/colors.css --allow-local-files
 
 #* ------------------------------------------------------------------- *
 #* makefile config for Vim modeline                                    *
