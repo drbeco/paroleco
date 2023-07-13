@@ -198,7 +198,7 @@ Paroleco Lounge 🌍 t.me/paroleco
 
 ---
 <!-- _class: invert-purple -->
-![bg right:35% h:85% w:100%](img/mosaicovoluntarios.png)
+![bg right:35% h:90% w:100%](img/mosaicovoluntarios.png)
 
 # Awesome Team
 
