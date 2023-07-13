@@ -21,9 +21,9 @@ marp            : true
 
 Coordinator
 Prof. Dr. Ruben C. Benante <<rcb@upe.br>>
-Assessoria de Relações Internacionais 
-Escola Politécnica 
-Univ. de Pernambuco 
+International Relations Off.
+Polytechnic University
+of Pernambuco 
 2023-07-08
 
 ---
@@ -43,15 +43,15 @@ This is an international language exchange set of groups which was created as a 
 
 ![bg right:30% h:65% w:100%](img/pyramid.png)
 
-# História do Paroleco
+# Paroleco History
 
-- Iniciou como um hobby: 
-  - colecionar amigos pelo mundo :sunglasses:
-  - aprender idiomas ![h:32px](img/20230706-logotipo-paroleco-transp.png)
-- Cresceu ![h:32px](img/whatsapp.png) original :green_heart:
-- Ficou um tempo unificado com o Projeto ILE :two_hearts:
-- Uma certa ![h:32px](img/facebook.png) :shit: estragou a plataforma! Hora de reavaliar.
-- O projeto de Extensão Paroleco foi reformulado. Início de uma nova era no Telegram ![h:32px](img/telegram.png)
+- It started as a hobby in 2000:
+  - A collection of friends :sunglasses:
+  - Learning Languages ![h:32px](img/20230706-logotipo-paroleco-transp.png)
+- It thrieved! ![h:32px](img/whatsapp.png) original :green_heart:
+- It joined efforts with another ILE group for a while :two_hearts:
+- A certain ![h:32px](img/facebook.png) :shit: screwed up the platform! Time to reassess.
+- The Extension Project Paroleco was reworked from scratch. Beginning of a new era on Telegram! ![h:32px](img/telegram.png)
 
 ---
 <!-- _class: invert-red -->
@@ -59,30 +59,26 @@ This is an international language exchange set of groups which was created as a 
 
 # Project Goals 
 
-- Encontrar parceiros para estudos de línguas :blue_book:
-- Praticar _speaking_ :microphone: e _listening_ :headphones: com amigos de todo o mundo :earth_americas:
-- Conhecer mais sobre outras culturas :performing_arts:
-- Compartilhar a cultura do seu país com o mundo :brazil:
+- Find study buddies for learning languages :blue_book:
+- To practice _speaking_ :microphone: and _listening_ :headphones: with friends all around the world :earth_americas:
+- Learn more about new cultures :performing_arts:
+- Share your own country's culture with the world :brazil:
 
 ---
 <!-- _class: invert -->
 ![bg right:35% h:65% w:100%](img/homework.png)
 
 # How does it work?
+Join these 3 groups (minimum):
+1. Main Lounge group :speech_balloon: meet everyone, chat in any language.
+1. Your Native language group :leftwards_arrow_with_hook: volunteer to help others. 
+1. Any language group you want to learn :arrow_right_hook: find your motivation! 
 
-Entre em 3 grupos (mínimo):
-1. Main Lounge para papo :speech_balloon:
-1. Voluntário no grupo Nativo :leftwards_arrow_with_hook:
-1. Estudante no grupo de sua escolha :arrow_right_hook:
-
-#### How to chat?!
-
-- You may talk **only** in **_English_** **or** in the **_Language_** of the group!
-
-:warning: Don't break this important rule!
+- **How to chat?!**
+You may talk **only** in **_English_** or in the **_Language_** of the group! :warning: Don't break this important rule!
 
 ---
-![bg 35% opacity:35%](img/notebook.png)
+![bg 35% opacity:30%](img/notebook.png)
 <!-- _class: invert-green -->
 ## CoC - Code of Conduct
 
@@ -129,14 +125,14 @@ English 🇬🇧, Latin 📜, Spanish 🇪🇸, French 🇫🇷, Italian 🇮�
 We will create more groups by demand, as we go along.
 Please join our main group and we go from there.
 
-Paroleco Lounge Group 🌍: https://t.me/paroleco
+Paroleco Main Lounge Group 🌍: https://t.me/paroleco
 
 :chart_with_upwards_trend: Help us achieve 200 members, so we can 
 move to _Telegram Topics_!
 
 ---
 <!-- _class: invert-blue -->
-![bg 65% opacity:15%](img/worldblue.png)
+![bg 65% opacity:10%](img/worldblue.png)
 
 # Paroleco Language Group Links:
 
@@ -178,6 +174,7 @@ Welcome and have a great time!
 - Master in Philosophy of Mind and Cogntive Science
 - Ph.D. in Artificial Intelligence
 - Head of the International Relations Office at POLI/UPE
+- Telegram https://t.me/drbeco
 
 <!-- Paroleco Lounge 🌍 t.me/paroleco -->
 <!-- <p style="font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright 2023+ by Ruben Carlo Benante </p> -->
