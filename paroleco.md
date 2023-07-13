@@ -182,33 +182,33 @@ Welcome and have a great time!
 ---
 <!-- _class: invert-orange -->
 <!-- footer: ![h:32px](img/20230711-logo-ari-degrade.png) ![h:20px](img/so-poli-logo-transp.png) ![h:20px](img/so-upe-logo-transp.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ni amas lingvojn -->
-![bg right:35% h:95% w:100%](img/mosaicoadmin.png)
+![bg right:33% h:95% w:100%](img/mosaicoadmin.png)
 
 # Awesome Team
 
 ### Super Admins
-- Joyce Sobral <!-- <<joyce-sobral@hotmail.com> -->
-- Pedro Paim <!-- <<edro.npm@gmail.com> -->
-- Bruna Hori <!-- <<brunahori19@gmail.com> -->
-- Letícia Oliveira <!-- <<leticiagboliveira@gmail.com>> -->
-- Cherry Tan
+- Joyce Sobral - @joycesobral_9
+- Pedro Paim - @PFNPM
+- Bruna Hori - @BrunaHori 
+- Letícia Oliveira - @leticiagboliveira
+- Cherry Tan - @manikmagik
 
 Paroleco Lounge 🌍 t.me/paroleco
 
 
 ---
 <!-- _class: invert-purple -->
-![bg right:35% h:90% w:100%](img/mosaicovoluntarios.png)
+![bg right:32% h:87% w:100%](img/mosaicovoluntarios.png)
 
 # Awesome Team
 
 ### Volunteers ARI/POLI/UPE
 
-- Maria Clara de Queiroz
-- Luciana Pires 
-- Ana Elisa Souza
-- Anne Gabriela Belarmino
-- Barbara da Cunha
-- José Filipe Soares
+- Clara Martins - @claraqmartins
+- Luciana Pires - @lucianapires25
+- Ana Elisa Souza - @aeosouza
+- Anne Belarmino - @annebelarmino
+- Barbara Correia - @babival
+- José Filipe Silva - @JoseFilipeSilva
 
 
