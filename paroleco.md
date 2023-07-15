@@ -34,7 +34,7 @@ of Pernambuco
 
 Welcome to **Paroleco** Language Exchange Club - PLEC 🌍
 
-This is an international language exchange set of groups which was created as a way of letting people from all over the world connect and interact in order to improve whichever language they are learning. Here you will find both people studying as well as natives who will help you with any questions you may have. 
+This is an International Language Exchange Club, organized in a group with a set of _topics_, allowing people from all over the world to connect and interact with each other to improve whichever languages they are learning. Here you will find both people studying as well as natives who will help you with any questions you may have. 
 
 
 ---
@@ -51,7 +51,7 @@ This is an international language exchange set of groups which was created as a 
 - It thrieved! ![h:32px](img/whatsapp.png) original :green_heart:
 - It joined efforts with another ILE group for a while :two_hearts:
 - A certain ![h:32px](img/facebook.png) :shit: screwed up the platform! Time to reassess.
-- The Extension Project Paroleco was reworked from scratch. Beginning of a new era on Telegram! ![h:32px](img/telegram.png)
+- The Extension Project was reworked from scratch. Beginning of a new era on Telegram! ![h:32px](img/telegram.png) Now with **_Topics_**! 
 
 ---
 <!-- _class: invert-red -->
@@ -69,13 +69,13 @@ This is an international language exchange set of groups which was created as a 
 ![bg right:35% h:65% w:100%](img/homework.png)
 
 # How does it work?
-Join these 3 groups (minimum):
-1. Main Lounge group :speech_balloon: meet everyone, chat in any language.
-1. Your Native language group :leftwards_arrow_with_hook: volunteer to help others. 
-1. Any language group you want to learn :arrow_right_hook: find your motivation! 
+Join the club! Check this 3 topics:
+1. Lounge topic :speech_balloon: meet everyone, chat in any language.
+1. Your Native language topic :leftwards_arrow_with_hook: volunteer to help others. 
+1. Any language topic you want to learn :arrow_right_hook: find your motivation! 
 
 - **How to chat?!**
-You may talk **only** in **_English_** or in the **_Language_** of the group! :warning: Don't break this important rule!
+You may talk **only** in **_English_** or in the **_Language_** of the topic! :warning: Don't break this important rule!
 
 ---
 ![bg 35% opacity:30%](img/notebook.png)
@@ -86,8 +86,9 @@ You may talk **only** in **_English_** or in the **_Language_** of the group! :w
 2. Please respect different cultures, ethnicities, religions, sexuality, gender, etc. :page_with_curl:
 3. Paroleco is **not** a dating platform. :page_with_curl:
 4. Please avoid any kind of spamming, like advertisements, potentially dangerous links or religious propaganda. :page_with_curl:
-5. Whenever you join a new group, please remember to introduce yourself. Say hi! :page_with_curl:
+5. Be awesome! Be excellent! Introduce yourself. Say hi! :page_with_curl:
 6. New members must talk to an admin and agree with these rules upon joining. :page_with_curl:
+7. Help us find people from all around the world to join! :page_with_curl:
 <!-- 6. Don't ask to add friends/family. Don't share chat links. :page_with_curl: -->
 
 <!-- , nor send the chat links to others. -->
@@ -99,11 +100,11 @@ You may talk **only** in **_English_** or in the **_Language_** of the group! :w
 
 # Are you interested? 
 
-It's easy. Join our **Paroleco Lounge** 🌍 https://t.me/paroleco
+It's easy. Join our **Paroleco Club** 🌍 https://t.me/paroleco
 
 - Introduce yourself: say hi, tell your name and your story!
-- Join the language groups you'd like to learn;
-- Join your native language group, where you will volunteer to help others.
+- Join and participate in the language topics you're learning.
+- Volunteer to help others learning your native language.
 - Respect these rules and you're gold! That's it! 
 
 <style>
@@ -120,45 +121,44 @@ img[alt~="center"] {
 # Our Language Groups!
 
 
-English 🇬🇧, Latin 📜, Spanish 🇪🇸, French 🇫🇷, Italian 🇮🇹, Portuguese 🇧🇷, German 🇩🇪,  Japanese 🇯🇵, Chinese 🇨🇳 and Russian 🇷🇺.
+English 🇬🇧, Italian 🇮🇹, French 🇫🇷, Portuguese 🇧🇷, German 🇩🇪, Latin 📜, Spanish 🇪🇸,  Japanese 🇯🇵, Chinese 🇨🇳 and Russian 🇷🇺, Hindi 🇮🇳, and Korean 🇰🇷.
 
 We will create more groups by demand, as we go along.
 Please join our main group and we go from there.
 
-Paroleco Main Lounge Group 🌍: https://t.me/paroleco
+Paroleco Club 🌍: https://t.me/paroleco
 
-:chart_with_upwards_trend: Help us achieve 200 members, so we can 
-move to _Telegram Topics_!
+:chart_with_upwards_trend: We are happy to announce that we are now configured as _Telegram Topics_!
 
 ---
 <!-- _class: invert-blue -->
 ![bg 65% opacity:10%](img/worldblue.png)
 
-# Paroleco Language Group Links:
-
-Paroleco Lounge 🌍: https://t.me/paroleco
-
-English 🇬🇧: https://t.me/joinchat/VZWOGfMJsIrtm-5W
-Latin 📜: https://t.me/joinchat/Yja1_KhNnSozYjQ5
-Spanish 🇪🇸: https://t.me/joinchat/KrpWTfgldxA1ZTMx
-French 🇫🇷: https://t.me/joinchat/HCQ2NfjOsj5hNzcx
-Italian 🇮🇹: https://t.me/joinchat/SWk49vPEW9M4ZmQx
-Portuguese 🇧🇷: https://t.me/joinchat/j6nwFxiXqA84ODkx
-German 🇩🇪: https://t.me/joinchat/Dh0SF0nxPIIyYTBh
-Japanese 🇯🇵: https://t.me/joinchat/OQ4BNBuJBBNhMGNh
-Chinese 🇨🇳: https://t.me/joinchat/dfIGmpIIa-8xOWEx
-Russian 🇷🇺: https://t.me/joinchat/__2EXER5L-gxZmMx
+## Paroleco Language Topic Links:
+Paroleco Lounge 🌍: https://t.me/paroleco/1
+English 🇬🇧: https://t.me/paroleco/2454
+Italian 🇮🇹: https://t.me/paroleco/2452
+French 🇫🇷: https://t.me/paroleco/2472
+Portuguese 🇧🇷: https://t.me/paroleco/2465
+German 🇩🇪: https://t.me/paroleco/2474
+Latin 📜: https://t.me/paroleco/2467
+Spanish 🇪🇸: https://t.me/paroleco/2469
+Japanese 🇯🇵: https://t.me/paroleco/2476
+Chinese 🇨🇳: https://t.me/paroleco/2478
+Russian 🇷🇺: https://t.me/paroleco/2480
+Hindi 🇮🇳: https://t.me/paroleco/2484
+Korean 🇰🇷: https://t.me/paroleco/2482
 
 ---
 ![bg 65% opacity:15%](img/gimmehug.png)
 
 # Welcome!
 
-The exchange is based on volunteers like yourself. You join the language group you want to learn and your native language group, so you can teach and give back to the community.
+The exchange is based on volunteers like yourself. You join the club and talk into the language topics you want to learn, and in your native language topic so you can teach and give back to the community.
 
-We also ask you to join the main lounge, so you can meet everyone from every group. These are the three (3) minimum groups you should join, but you can join others if you are interested in learning more than one language.
+In the main Lounge topic you can meet everyone from the club. These are the three (3) minimum topics you should pay attention, but you can join others if you are interested in learning more than one language.
 
-We have groups for every language. You can join whichever one you want, whenever you want, just go for it!
+We have topics for every language. You can join whichever one you want, whenever you want, just go for it!
 
 Welcome and have a great time!
 
@@ -193,7 +193,7 @@ Welcome and have a great time!
 - Letícia Oliveira - @leticiagboliveira
 - Cherry Tan - @manikmagik
 
-Paroleco Lounge 🌍 t.me/paroleco
+Paroleco Club 🌍 t.me/paroleco
 
 
 ---
@@ -211,4 +211,6 @@ Paroleco Lounge 🌍 t.me/paroleco
 - Barbara Correia - @babival
 - José Filipe Silva - @JoseFilipeSilva
 
+
+Paroleco Club 🌍 t.me/paroleco
 
